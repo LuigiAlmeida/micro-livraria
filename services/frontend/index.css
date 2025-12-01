@@ -72,3 +72,13 @@ body {
         min-height: 250px;
     }
 }
+
+.box.cta .field.has-addons {
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+#search-id-input {
+    max-width: 200px;
+}
+
